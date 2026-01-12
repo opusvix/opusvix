@@ -56,7 +56,7 @@
 
 ## 📌 **Projetos em Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=opusvix&repo=one-alura-desafio-amigo-secreto&theme=dark)](https://github.com/opusvix/one-alura-desafio-amigo-secreto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=opusvix&repo=ServicosPublicos&theme=dark)](https://github.com/opusvix/ServicosPublicos)
 
 ## 🚀 **Linguagens Mais Usadas**
 
