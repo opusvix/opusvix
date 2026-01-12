@@ -19,10 +19,34 @@
 
 ## 📌 **Projetos em Destaque**
 
-  - one-alura-desafio-amigo-secreto: Aplicação que permite aos usuários inserir nomes dos participantes de um Amigo Secreto e realizar o sorteio automaticamente. [Repositório](https://github.com/opusvix/one-alura-desafio-amigo-secreto)
+  - Recentemente desenvolvi um projeto completo de **Monitoramento e Análise de Glicemia com Power BI**, aplicando:
+    • Modelagem de dados e tabela calendário 
+    • Medidas DAX para análise temporal e comparativa 
+    • Visualizações focadas em tomada de decisão 
+    • Storytelling analítico em um contexto de saúde 
+    
+    O projeto foi estruturado como **Power BI Project (PBIR)**, com versionamento completo no GitHub, boas práticas de organização e documentação técnica.
 
-  - Desafio-DocumentandoProjetos-DIO: Explore como gerar documentação clara e organizada para projetos, aproveitando recursos de IA para transformar informações fornecidas em descrições estruturadas e detalhadas. [Repositório](https://github.com/opusvix/Desafio-DocumentandoProjetos-DIO)
-
+  - 🚀 Novo projeto de portfólio em Power BI: Serviços Públicos & Energia Solar
+    Concluí um projeto de Business Intelligence em Power BI, estruturado no formato PBIP / PBIR, com foco na análise de consumo, custos e eficiência de serviços públicos, destacando o impacto financeiro e ambiental da energia solar.
+    🔎 O que foi analisado:
+    
+    - Evolução do consumo e dos custos ao longo do tempo
+    - Impacto dos créditos de energia do programa Solar Digital EDP
+    - Comparativo de custos com vs. sem energia solar
+    - Identificação de sazonalidades e oportunidades de eficiência
+    - Indicadores de contribuição ambiental (ESG)
+    
+    📊 O que o projeto entrega:
+    
+    - Dashboard com 4 páginas analíticas
+    - Modelagem em estrela + tabela calendário
+    - Medidas DAX para custo, economia e impacto ambiental
+    - Storytelling orientado à tomada de decisão
+    - Projeto versionado e organizado para GitHub
+    
+    💡 Além da análise financeira, o projeto mostra como dados podem apoiar decisões mais sustentáveis, mensurando não apenas economia de custos, mas também redução de emissões (Kg CO₂).
+    
 ## 🌱 Em Desenvolvimento
   Atualmente, estou aprofundando meus conhecimentos em Inteligência Artificial Generativa, explorando modelos como GPT-4 e DALL·E para aplicações criativas e inovadoras.
 
