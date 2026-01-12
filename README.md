@@ -20,11 +20,12 @@
 ## 📌 **Projetos em Destaque**
 
   - Recentemente desenvolvi um projeto completo de **Monitoramento e Análise de Glicemia com Power BI**, aplicando:
-    • Modelagem de dados e tabela calendário 
-    • Medidas DAX para análise temporal e comparativa 
-    • Visualizações focadas em tomada de decisão 
-    • Storytelling analítico em um contexto de saúde 
-    
+  
+    - Modelagem de dados e tabela calendário 
+    - Medidas DAX para análise temporal e comparativa 
+    - Visualizações focadas em tomada de decisão 
+    - Storytelling analítico em um contexto de saúde 
+        
     O projeto foi estruturado como **Power BI Project (PBIR)**, com versionamento completo no GitHub, boas práticas de organização e documentação técnica.
 
   - 🚀 Novo projeto de portfólio em Power BI: Serviços Públicos & Energia Solar
